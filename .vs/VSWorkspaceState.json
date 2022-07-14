@@ -6,10 +6,11 @@
     "\\src\\app\\header",
     "\\src\\app\\recipes",
     "\\src\\app\\recipes\\recipe-detail",
-    "\\src\\app\\shared-folder",
+    "\\src\\app\\recipes\\recipe-edit",
+    "\\src\\app\\recipes\\recipe-list",
     "\\src\\app\\shared-folder\\dropdown.directive.ts",
     "\\src\\app\\shopping-list\\shopping-list-edit"
   ],
-  "SelectedNode": "\\src\\app\\shared-folder\\dropdown.directive.ts",
+  "SelectedNode": "\\src\\app\\app-routing.module.ts",
   "PreviewInSolutionExplorer": false
 }
